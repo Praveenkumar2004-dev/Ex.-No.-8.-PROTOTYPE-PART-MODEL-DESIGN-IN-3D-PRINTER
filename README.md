@@ -48,7 +48,7 @@
 ## Output:
 ![Screenshot 2023-06-14 182725](https://github.com/Mukilkumar-SEC/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119559663/725b3f99-2e40-4b1b-8ee9-9959314db175)
 
-### Name: IYYANAR S
-### Register Number: 212222240036
+### Name: GANESH R
+### Register Number: 212222240029
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
