@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3862586c-5b71-499f-aad6-50288c9dda39)
+
+![empd ganesh](https://github.com/user-attachments/assets/69a51eb7-464e-42b5-a970-63b45dea0126)
 
 ### Name: GANESH R
 ### Register Number: 212222240029
