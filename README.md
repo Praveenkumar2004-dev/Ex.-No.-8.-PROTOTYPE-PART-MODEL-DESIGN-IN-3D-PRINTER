@@ -46,8 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3862586c-5b71-499f-aad6-50288c9dda39)
-![image](https://github.com/user-attachments/assets/e88a478e-8af9-45ff-bab3-8ed5d29b1a6d)
+
+![Ex03 praveen](https://github.com/user-attachments/assets/d4e5e192-2a8f-475a-a0e9-f62a210b53a4)
 
 
 ### Name:PRAVEENKUMAR S
