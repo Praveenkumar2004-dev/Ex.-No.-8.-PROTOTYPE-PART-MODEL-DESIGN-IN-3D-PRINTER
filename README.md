@@ -47,6 +47,8 @@
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/3862586c-5b71-499f-aad6-50288c9dda39)
+![image](https://github.com/user-attachments/assets/e88a478e-8af9-45ff-bab3-8ed5d29b1a6d)
+
 
 ### Name:PRAVEENKUMAR S
 ### Register Number:212222230108
